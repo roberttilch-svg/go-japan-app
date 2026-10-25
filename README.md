@@ -1,0 +1,1 @@
+# go-japan-app
